@@ -49909,7 +49909,7 @@
       }
       (gC.displayName = "Hide"), (bC.displayName = "Show");
       var wC =
-          n.p + "static/media/logo-transparent-png.14a074c43697fe0f9f68.png",
+          n.p + "static/media/logo.img.jpg",
         xC = n(5667);
       function kC(t, n) {
         var r = (0, e.useId)();
