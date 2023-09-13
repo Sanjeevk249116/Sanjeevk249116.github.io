@@ -31978,7 +31978,7 @@
                 link: "https://github.com/Sanjeevk249116",
                 bg: "black",
                 icon: bo,
-                text: "Sanjeev",
+                text: "Sanjeevk249116",
               }),
               (0, Cr.jsx)(Po, {
                 id: "contact-email",
