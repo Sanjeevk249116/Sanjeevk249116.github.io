@@ -31843,7 +31843,7 @@
                         },
                         lineHeight: { lg: "40px" },
                         children:
-                          "Analytical and detail-oriented aspiring Full Stack Developer, currently working on MERN stack. Proficient in HTML, CSS, and Javascript with hands-on experience in cloning websites. Curious to explore and learn new things",
+                          "Highly adept full stack web developer with expertise in MERN and data structures and algorithms. Proven track record of delivering solo and collaborative projects. Possesses strong technical acumen and problem-solving skills, ready to contribute to cutting-edge web development endeavors.",
                       }),
                     }),
                     (0, Cr.jsxs)(jr, {
