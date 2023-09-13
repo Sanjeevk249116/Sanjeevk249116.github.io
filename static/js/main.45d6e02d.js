@@ -31863,7 +31863,7 @@
                           className: Eo,
                           onClick: function () {
                             return window.open(
-                              "https://drive.google.com/file/d/11AwYT97eH7iNnqUxyKt9rIBGCzYu4RuK/view"
+                              "https://drive.google.com/file/d/1dtRvOmvFquN2o8sPK-eOomUEZ52a4sHR/view"
                             );
                           },
                           bg: "#ff0000",
@@ -31873,9 +31873,9 @@
                           _hover: { background: "black" },
                           children: (0, Cr.jsxs)("a", {
                             id: "resume-link-2",
-                            href: "https://drive.google.com/uc?export=download&id=11AwYT97eH7iNnqUxyKt9rIBGCzYu4RuK",
+                            href: "https://drive.google.com/uc?export=download&id=1dtRvOmvFquN2o8sPK-eOomUEZ52a4sHR",
                             download:
-                              "https://drive.google.com/uc?export=download&id=11AwYT97eH7iNnqUxyKt9rIBGCzYu4RuK",
+                              "https://drive.google.com/uc?export=download&id=1dtRvOmvFquN2o8sPK-eOomUEZ52a4sHR",
                             children: ["Resume ", (0, Cr.jsx)(lo, { as: xo })],
                           }),
                         }),
