@@ -31764,7 +31764,7 @@
               }),
               (0, Cr.jsx)(co, {
                 id: "contact-phone",
-                href: "tel:+917304127701",
+                href: "tel:+918957937522",
                 children: (0, Cr.jsx)(Mr, {
                   size: { base: "40px", lg: "50px" },
                   bg: "#32d04d",
