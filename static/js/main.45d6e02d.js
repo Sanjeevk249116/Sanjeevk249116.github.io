@@ -53236,7 +53236,7 @@
                           feature_2: "Functinal Cart Page",
                           feature_3: "Sort and Filter functionality",
                           feature_4: "User Authentication using Local Storage",
-                          projectType: "Individual",
+                          projectType: "Collabrative",
                           imageOrder: 1,
                           contentOrder: 2,
                           live_link: "https://647dd65b244d6300b314abcb--fanciful-pasca-55c3aa.netlify.app/",
