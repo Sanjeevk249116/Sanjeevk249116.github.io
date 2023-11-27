@@ -53279,6 +53279,7 @@
                           techStack_2: "css-3.png",
                           techStack_3: "javascript.png",
                           techStack_4: "react.png",
+                          techStack_5: "redux.png",
                           feature_1: "User Authentication using mock server",
                           feature_2: "Crud Operations using mock server",
                           feature_3:
