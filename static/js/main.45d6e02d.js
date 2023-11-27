@@ -53254,6 +53254,8 @@
                           techStack_1: "html-1.png",
                           techStack_2: "css-3.png",
                           techStack_3: "javascript.png",
+                          techStack_4: "react.png",
+                          techStack_5: "chakra.png",
                           feature_1: "User Authentication",
                           feature_2: "Functional Dashboard",
                           feature_3: "CRUD Operations using API",
