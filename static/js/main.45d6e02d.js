@@ -53247,10 +53247,10 @@
                       (0, Cr.jsx)(vP(), {
                         right: !0,
                         children: (0, Cr.jsx)(pP, {
-                          imglink: "food.png",
-                          title: "Mr-Chif Clone",
+                          imglink: "masai-clone.png",
+                          title: "Masai Clone",
                           description:
-                            "Food delivery to your doorstep from thousands of amazing local and national restaurants.",
+                            "Explore the vibrant world of Masai School, where learning transcends boundaries. Our innovative programs blend cutting-edge technology with real-world applications, empowering you to master the skills that matter.",
                           techStack_1: "html-1.png",
                           techStack_2: "css-3.png",
                           techStack_3: "javascript.png",
@@ -53261,9 +53261,9 @@
                           projectType: "Collabrative",
                           imageOrder: 1,
                           contentOrder: 1,
-                          live_link: "https://food-app-five-xi.vercel.app/",
+                          live_link: "https://masai-flow.vercel.app/",
                           github_link:
-                            "https://github.com/Anuj-16/Food_App",
+                            "https://github.com/Sanjeevk249116/Masai-clone",
                         }),
                       }),
                       (0, Cr.jsx)(To(), {
