@@ -31864,7 +31864,7 @@
                           className: Eo,
                           onClick: function () {
                             return window.open(
-                              "https://drive.google.com/file/d/1dtRvOmvFquN2o8sPK-eOomUEZ52a4sHR/view"
+                              "https://drive.google.com/file/d/16TUONK4rsWvWwbztZaJsdUDvO8GThf7r/view"
                             );
                           },
                           bg: "#ff0000",
@@ -52699,7 +52699,7 @@
             className: "nav-link resume",
             onClick: function () {
               return window.open(
-                "https://drive.google.com/file/d/1dtRvOmvFquN2o8sPK-eOomUEZ52a4sHR/view",
+                "https://drive.google.com/file/d/16TUONK4rsWvWwbztZaJsdUDvO8GThf7r/view",
                 "_blank"
               );
             },
