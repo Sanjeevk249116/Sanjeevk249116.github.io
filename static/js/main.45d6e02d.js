@@ -31765,7 +31765,7 @@
               (0, Cr.jsx)(co, {
                 id: "contact-phone",
                 href: "tel:+918957937522",
-                
+
                 children: (0, Cr.jsx)(Mr, {
                   size: { base: "40px", lg: "50px" },
                   bg: "#32d04d",
@@ -49909,8 +49909,7 @@
         return (0, Cr.jsx)(vC, { breakpoint: r, ssr: n, children: t });
       }
       (gC.displayName = "Hide"), (bC.displayName = "Show");
-      var wC =
-          n.p + "static/media/logo.img1.jpg",
+      var wC = n.p + "static/media/logo.img1.jpg",
         xC = n(5667);
       function kC(t, n) {
         var r = (0, e.useId)();
@@ -53222,7 +53221,7 @@
                     gridTemplateColumns: { lg: "repeat(1,1fr)" },
                     gap: { base: "25px", lg: "60px" },
                     children: [
-                     (0, Cr.jsx)(vP(), {
+                      (0, Cr.jsx)(vP(), {
                         right: !0,
                         children: (0, Cr.jsx)(pP, {
                           imglink: "masai-clone.png",
@@ -53290,8 +53289,7 @@
                           imageOrder: 1,
                           contentOrder: 2,
                           live_link: "https://food-app-five-xi.vercel.app/",
-                          github_link:
-                            "",
+                          github_link: "",
                         }),
                       }),
                     ],
@@ -57528,13 +57526,11 @@
         },
         dL = fL(lL);
       fL(sL);
-      r
-        .createRoot(document.getElementById("root"))
-        .render(
-          (0, Cr.jsx)(Zh, {
-            children: (0, Cr.jsx)(dL, { children: (0, Cr.jsx)(TP, {}) }),
-          })
-        ),
+      r.createRoot(document.getElementById("root")).render(
+        (0, Cr.jsx)(Zh, {
+          children: (0, Cr.jsx)(dL, { children: (0, Cr.jsx)(TP, {}) }),
+        })
+      ),
         jP();
     })();
 })();
