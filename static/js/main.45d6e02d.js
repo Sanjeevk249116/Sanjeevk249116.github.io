@@ -31864,7 +31864,7 @@
                           className: Eo,
                           onClick: function () {
                             return window.open(
-                              "https://drive.google.com/file/d/16TUONK4rsWvWwbztZaJsdUDvO8GThf7r/view"
+                              "https://drive.google.com/file/d/1O6pwsGw2KnPL71NAsVGWOVATRz50Vwa1/view"
                             );
                           },
                           bg: "#ff0000",
@@ -52699,7 +52699,7 @@
             className: "nav-link resume",
             onClick: function () {
               return window.open(
-                "https://drive.google.com/file/d/16TUONK4rsWvWwbztZaJsdUDvO8GThf7r/view",
+                "https://drive.google.com/file/d/1O6pwsGw2KnPL71NAsVGWOVATRz50Vwa1/view",
                 "_blank"
               );
             },
@@ -53222,29 +53222,7 @@
                     gridTemplateColumns: { lg: "repeat(1,1fr)" },
                     gap: { base: "25px", lg: "60px" },
                     children: [
-                      (0, Cr.jsx)(vP(), {
-                        left: !0,
-                        children: (0, Cr.jsx)(pP, {
-                          imglink: "nykaa.png",
-                          title: "Stoopid - Nykaa Clone",
-                          description:
-                            " Nykaa is an E-commerce platform for cosmetics and lifestyle brands.",
-                          techStack_1: "html-1.png",
-                          techStack_2: "css-3.png",
-                          techStack_3: "javascript.png",
-                          feature_1: "Functional Product Page",
-                          feature_2: "Functinal Cart Page",
-                          feature_3: "Sort and Filter functionality",
-                          feature_4: "User Authentication using Local Storage",
-                          projectType: "Collabrative",
-                          imageOrder: 1,
-                          contentOrder: 2,
-                          live_link: "https://647dd65b244d6300b314abcb--fanciful-pasca-55c3aa.netlify.app/",
-                          github_link:
-                            "https://github.com/Shamaiel/Project-Nykaa",
-                        }),
-                      }),
-                      (0, Cr.jsx)(vP(), {
+                     (0, Cr.jsx)(vP(), {
                         right: !0,
                         children: (0, Cr.jsx)(pP, {
                           imglink: "masai-clone.png",
@@ -53296,10 +53274,10 @@
                       (0, Cr.jsx)(To(), {
                         bottom: !0,
                         children: (0, Cr.jsx)(pP, {
-                          imglink: "playo.png",
-                          title: "Playo App",
+                          imglink: "food.png",
+                          title: "Food App",
                           description:
-                            "The Playo app primarily serves as a sports school.",
+                            "Indulge in a culinary adventure with our delectable dishes, crafted to satisfy every craving and tantalize your taste buds.",
                           techStack_1: "html-1.png",
                           techStack_2: "css-3.png",
                           techStack_3: "javascript.png",
@@ -53311,9 +53289,9 @@
                           projectType: "Individual",
                           imageOrder: 1,
                           contentOrder: 2,
-                          live_link: "https://playo-project.vercel.app/",
+                          live_link: "https://food-app-five-xi.vercel.app/",
                           github_link:
-                            "https://github.com/Sanjeevk249116/playo-project",
+                            "",
                         }),
                       }),
                     ],
