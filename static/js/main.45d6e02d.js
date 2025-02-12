@@ -49657,7 +49657,7 @@
                       children: (0, Cr.jsx)(ih, {
                         width: { base: "40%", sm: "35%", md: "65%", lg: "80%" },
                         className: "home-img",
-                        src: "rephoto.jpg",
+                        src: "Sanjeev.jpg",
                         borderRadius: "50%",
                         border: "8px solid #d9f2ff",
                       }),
