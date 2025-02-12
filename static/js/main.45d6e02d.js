@@ -31864,7 +31864,7 @@
                           className: Eo,
                           onClick: function () {
                             return window.open(
-                              "https://drive.google.com/file/d/1O6pwsGw2KnPL71NAsVGWOVATRz50Vwa1/view"
+                              "https://drive.google.com/file/d/10Nk4DO1tv4Q0xWnX5tk9-TIpfW-FK9aq/view"
                             );
                           },
                           bg: "#ff0000",
@@ -31874,9 +31874,9 @@
                           _hover: { background: "black" },
                           children: (0, Cr.jsxs)("a", {
                             id: "resume-link-2",
-                            href: "https://drive.google.com/uc?export=download&id=1dtRvOmvFquN2o8sPK-eOomUEZ52a4sHR",
+                            href: "https://drive.google.com/uc?export=download&id=10Nk4DO1tv4Q0xWnX5tk9-TIpfW-FK9aq",
                             download:
-                              "https://drive.google.com/uc?export=download&id=1dtRvOmvFquN2o8sPK-eOomUEZ52a4sHR",
+                              "https://drive.google.com/uc?export=download&id=10Nk4DO1tv4Q0xWnX5tk9-TIpfW-FK9aq",
                             children: ["Resume ", (0, Cr.jsx)(lo, { as: xo })],
                           }),
                         }),
@@ -52662,15 +52662,15 @@
                                   text: "Contact",
                                   onClick: function () {
                                     window.open(
-                                      "https://drive.google.com/file/d/1dtRvOmvFquN2o8sPK-eOomUEZ52a4sHR/view"
+                                      "https://drive.google.com/file/d/10Nk4DO1tv4Q0xWnX5tk9-TIpfW-FK9aq/view"
                                     ),
                                       o();
                                   },
                                   section: "contact",
                                   children: (0, Cr.jsx)("a", {
-                                    href: "https://drive.google.com/uc?export=download&id=1dtRvOmvFquN2o8sPK-eOomUEZ52a4sHR",
+                                    href: "https://drive.google.com/uc?export=download&id=10Nk4DO1tv4Q0xWnX5tk9-TIpfW-FK9aq",
                                     download:
-                                      "https://drive.google.com/uc?export=download&id=1dtRvOmvFquN2o8sPK-eOomUEZ52a4sHR",
+                                      "https://drive.google.com/uc?export=download&id=10Nk4DO1tv4Q0xWnX5tk9-TIpfW-FK9aq",
                                     children: "Resume",
                                   }),
                                 }),
@@ -52711,9 +52711,9 @@
             _hover: { background: "black" },
             children: (0, Cr.jsxs)("a", {
               id: "resume-link-1",
-              href: "https://drive.google.com/uc?export=download&id=1dtRvOmvFquN2o8sPK-eOomUEZ52a4sHR",
+              href: "https://drive.google.com/uc?export=download&id=10Nk4DO1tv4Q0xWnX5tk9-TIpfW-FK9aq",
               download:
-                "https://drive.google.com/uc?export=download&id=1dtRvOmvFquN2o8sPK-eOomUEZ52a4sHR",
+                "https://drive.google.com/uc?export=download&id=10Nk4DO1tv4Q0xWnX5tk9-TIpfW-FK9aq",
               children: ["Resume ", (0, Cr.jsx)(lo, { as: xo })],
             }),
           })
