@@ -52698,7 +52698,7 @@
             className: "nav-link resume",
             onClick: function () {
               return window.open(
-                "https://drive.google.com/file/d/1O6pwsGw2KnPL71NAsVGWOVATRz50Vwa1/view",
+                "https://drive.google.com/file/d/10Nk4DO1tv4Q0xWnX5tk9-TIpfW-FK9aq/view",
                 "_blank"
               );
             },
