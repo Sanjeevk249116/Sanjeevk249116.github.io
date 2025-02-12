@@ -53226,7 +53226,8 @@
                   github_link:
                     "https://github.com/Sanjeevk249116/auction-server",
                 }),
-              })(0, Cr.jsx)(jr, {
+              }),
+              (0, Cr.jsx)(jr, {
                 border: "1px solid re",
                 w: { lg: "90%" },
                 h: { lg: "95%" },
