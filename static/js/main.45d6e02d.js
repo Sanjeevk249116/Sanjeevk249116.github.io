@@ -53203,30 +53203,6 @@
                   children: "Projects",
                 }),
               }),
-              (0, Cr.jsx)(To(), {
-                left: !0,
-                children: (0, Cr.jsx)(pP, {
-                  imglink: "auction.png",
-                  title: "Auction System",
-                  description:
-                    "An online auction system where buyers bid on listed items, and sellers manage catalogs, approve products, and accept bids. The admin oversees the entire process, ensuring smooth operations and policy enforcement. The system includes real-time bidding, bid history tracking, and automated notifications. Secure authentication, payment integration, and dispute resolution enhance reliability, ensuring a fair and transparent auction experience for buyers, sellers, and administrators.",
-                  techStack_1: "css-3.png",
-                  techStack_2: "javascript.png",
-                  techStack_3: "react.png",
-                  techStack_4: "redux.png",
-                  techStack_5: "mern.jpeg",
-                  feature_1: "User Authentication using two factor authentication.",
-                  feature_2: "Live biding using socket.io",
-                  feature_3: "Implemented Sort and Filter functionality",
-                  feature_4: "Admin Page",
-                  projectType: "Collabrative",
-                  imageOrder: 1,
-                  contentOrder: 2,
-                  live_link: "https://staging.d2bcrm3cctszjv.amplifyapp.com/",
-                  github_link:
-                    "https://github.com/Sanjeevk249116/auction-server",
-                }),
-              }),
               (0, Cr.jsx)(jr, {
                 border: "1px solid re",
                 w: { lg: "90%" },
@@ -53246,6 +53222,30 @@
                     gap: { base: "25px", lg: "60px" },
                     children: [
                       (0, Cr.jsx)(vP(), {
+                        left: !0,
+                        children: (0, Cr.jsx)(pP, {
+                          imglink: "auction.png",
+                          title: "Auction System",
+                          description:
+                            "An online auction system where buyers bid on listed items, and sellers manage catalogs, approve products, and accept bids. The admin oversees the entire process, ensuring smooth operations and policy enforcement. The system includes real-time bidding, bid history tracking, and automated notifications. Secure authentication, payment integration, and dispute resolution enhance reliability, ensuring a fair and transparent auction experience for buyers, sellers, and administrators.",
+                          techStack_1: "css-3.png",
+                          techStack_2: "javascript.png",
+                          techStack_3: "react.png",
+                          techStack_4: "redux.png",
+                          techStack_5: "mern.jpeg",
+                          feature_1: "User Authentication using two factor authentication.",
+                          feature_2: "Live biding using socket.io",
+                          feature_3: "Implemented Sort and Filter functionality",
+                          feature_4: "Admin Page",
+                          projectType: "Collabrative",
+                          imageOrder: 1,
+                          contentOrder: 2,
+                          live_link: "https://staging.d2bcrm3cctszjv.amplifyapp.com/",
+                          github_link:
+                            "https://github.com/Sanjeevk249116/auction-server",
+                        }),
+                      }),
+                      (0, Cr.jsx)(to(), {
                         right: !0,
                         children: (0, Cr.jsx)(pP, {
                           imglink: "masai-clone.png",
