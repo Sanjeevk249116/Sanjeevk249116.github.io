@@ -31844,7 +31844,7 @@
                         },
                         lineHeight: { lg: "40px" },
                         children:
-                          "Highly adept full-stack web developer with 1.5 years of experience, specializing in the MERN stack and data structures & algorithms. Proven track record of delivering both solo and collaborative projects. Possesses strong technical acumen and problem-solving skills, ready to contribute to cutting-edge web development endeavors.",
+                          "Highly adept full-stack web developer with more than 2 years of experience, specializing in the MERN stack and data structures & algorithms. Proven track record of delivering both solo and collaborative projects. Possesses strong technical acumen and problem-solving skills, ready to contribute to cutting-edge web development endeavors.",
                       }),
                     }),
                     (0, Cr.jsxs)(jr, {
